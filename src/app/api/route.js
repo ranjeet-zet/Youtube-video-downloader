@@ -30,4 +30,8 @@ export async function POST(request) {
     }
     
 }
-
+export async function GET(){
+    return NextResponse.json({
+       message:"Hello from serverless Server"
+    })
+}
