@@ -15,7 +15,7 @@ This Next.js project provides a user-friendly interface for downloading YouTube 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ranjeetmasaischool/Youtube-video-downloader
    ```
 
 2. Install dependencies:
@@ -48,7 +48,7 @@ This Next.js project provides a user-friendly interface for downloading YouTube 
 
 ## Credits
 
-- [Your Name](link-to-your-profile) - Developer
+- [Ranjeet Kumar](https://github.com/ranjeetmasaischool) -MERN Stack Developer
 
 ## License
 
